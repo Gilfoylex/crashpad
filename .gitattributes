@@ -14,8 +14,8 @@
 
 *.S text eol=lf
 *.asm text eol=lf
-*.c text eol=lf
-*.cc text eol=lf
+*.c text eol=crlf
+*.cc text eol=crlf
 *.cmx text eol=lf
 *.css text eol=lf
 *.defs text eol=lf
@@ -25,7 +25,7 @@
 *.go text eol=lf
 *.gyp text eol=lf
 *.gypi text eol=lf
-*.h text eol=lf
+*.h text eol=crlf
 *.m text eol=lf
 *.md text eol=lf
 *.mm text eol=lf
